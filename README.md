@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=transparent&height=90&color=gradient&text=kbj-dlp&fontSize=75&animation=fadeIn"/>
 </p>
 <p align='center'> 
-  <em>Downloads VODs from kbj.com and bjcam.com</em>
+  <em>Downloads VODs from sexkbj.com and sexbjcam.com</em>
 </p>
 
 ## 📦 Requirements 🛠️
