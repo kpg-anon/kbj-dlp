@@ -17,11 +17,11 @@
 ## 🌐 Installation 🗃
 1. Clone the repository:
 	```
-	git clone https://github.com/kpg-anon/kbj-dl-p
+	git clone https://github.com/kpg-anon/kbj-dlp
 	```
 2. Navigate to the project directory:
 	```
-	cd kbj-dl-p
+	cd kbj-dlp
 	```
 3. Install requirements:
 	```
